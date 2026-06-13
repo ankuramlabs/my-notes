@@ -10,21 +10,17 @@ This repository serves as a personal knowledge base and a community resource for
 ## 📂 Repository Structure
 
 my-notes/
-│
-├── prompts/          # Saved prompts (Markdown files)
-│   ├── ai_agents.md
-│   ├── design_notes.md
-│   └── productivity.md
-│
-├── notes/            # General notes, reflections, and learnings
-│   ├── daily_journal.md
-│   ├── study_tips.md
-│   └── experiments.md
-│
-├── resources/        # Useful links, references, and curated material
-│   └── reading_list.md
-│
-└── README.md         # Overview and usage guide
+prompts/
+prompts/ai_agents.md
+prompts/design_notes.md
+prompts/productivity.md
+notes/
+notes/daily_journal.md
+notes/study_tips.md
+notes/experiments.md
+resources/
+resources/reading_list.md
+README.md
 
 
 ---
